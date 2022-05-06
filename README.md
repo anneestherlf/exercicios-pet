@@ -1,2 +1,0 @@
-# curso pet facepe
- exercícios 
