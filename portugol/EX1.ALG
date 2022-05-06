@@ -18,7 +18,5 @@ leia(idade)
 escreval("Insira a nota do aluno.")
 leia(nota)
 limpatela
-escreval("=========================================")
-escreval("=========================================")
 escreval("O(A) aluno(a) ",nome," de idade ",idade,", teve a nota ",nota)
 Fimalgoritmo
