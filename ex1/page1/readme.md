@@ -1,1 +1,1 @@
-![page1](C:\Users\annee\Desktop\curso pet facepe\exercício01\page1\print1.PNG)
+![page1](https://raw.githubusercontent.com/anneestherlf/curso-pet-facepe/main/ex1/page1/print1.PNG)
