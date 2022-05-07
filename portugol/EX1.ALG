@@ -1,17 +1,17 @@
 Algoritmo "ex1"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e Lï¿½gica de Programaï¿½ï¿½o]
 // Professor   : Reginaldo Xavier
-// Descrição   : Programa que lê o nome, idade, nota e depois exibe-os na tela
+// Descriï¿½ï¿½o   : Programa que lï¿½ o nome, idade, nota e depois exibe-os na tela
 // Autor(a)    : Anne Esther
 // Data atual  : 06/05/2022
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
 nome: caracter
 idade: inteiro
 nota: real
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-escreval("Insina o nome do aluno.")
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
+escreval("Insira o nome do aluno.")
 leia(nome)
 escreval("Insira a idade do aluno.")
 leia(idade)
