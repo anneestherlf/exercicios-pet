@@ -1,22 +1,21 @@
 Algoritmo "ex1"
-// Disciplina   : [Linguagem e Lï¿½gica de Programaï¿½ï¿½o]
-// Professor   : Reginaldo Xavier
-// Descriï¿½ï¿½o   : Programa que lï¿½ o nome, idade, nota e depois exibe-os na tela
-// Autor(a)    : Anne Esther
-// Data atual  : 06/05/2022
+//Exercício1: Faça um programa que leia o nome, idade e nota depois imprima na tela.
+
 Var
-// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
+// Seção de Declarações das variáveis 
 nome: caracter
 idade: inteiro
 nota: real
+
 Inicio
-// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
-escreval("Insira o nome do aluno.")
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+escreval("Digite o nome do(a) aluno(a).")
 leia(nome)
-escreval("Insira a idade do aluno.")
+escreval("Digite a idade do(a) aluno(a).")
 leia(idade)
-escreval("Insira a nota do aluno.")
+escreval("Digite a nota do(a) aluno(a).")
 leia(nota)
 limpatela
-escreval("O(A) aluno(a) ",nome," de idade ",idade,", teve a nota ",nota)
+escreval("A nota do(a) aluno(a) ",nome," de idade ",idade," foi de ",nota)
+
 Fimalgoritmo
